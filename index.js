@@ -20,7 +20,7 @@ const blog_array = [ {
     date: "2020-01-02",
     image: "images/default.jpeg",
     imageAlt: "this is the image alt",
-    content: "This is my second blog post. It is a good one."
+    content: "This is my second blog post."
 }, 
 
 {    
@@ -30,7 +30,7 @@ const blog_array = [ {
     date: "2020-01-03",
     image: "images/default.jpeg",
     imageAlt: "this is the image alt",
-    content: "This is my third blog post. It is a good one."
+    content: "This is my third blog post."
 }, 
 
 { 
@@ -40,7 +40,7 @@ const blog_array = [ {
     date: "2020-01-04",
     image: "images/arduino.jpeg",
     imageAlt: "this is the image alt",
-    content: "This is my fourth blog post. It is a good one."
+    content: "This is my fourth blog post."
 }, 
 
 {
@@ -50,7 +50,7 @@ const blog_array = [ {
     date: "2020-01-05",
     image: "images/default.jpeg",
     imageAlt: "this is the image alt",
-    content: "This is my fifth blog post. It is a good one."
+    content: "This is my fifth blog post."
 }, 
 {
     id:6, 
@@ -59,7 +59,7 @@ const blog_array = [ {
     date: "2020-01-05",
     image: "images/default.jpeg",
     imageAlt: "this is the image alt",
-    content: "This is my sixth blog post. It is a good one."
+    content: "This is my sixth blog post."
 },
 ]; 
 
